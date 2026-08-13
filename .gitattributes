@@ -1,0 +1,14 @@
+*.tsx linguist-detectable
+
+*.ts linguist-detectable
+*.yaml linguist-detectable=false
+* text=auto eol=lf 
+
+public/**/*.html linguist-vendored
+
+*.yml linguist-detectable=false
+public/index.html linguist-vendored
+
+Cargo.lock linguist-generated
+* text=auto
+*.min.js linguist-generated
