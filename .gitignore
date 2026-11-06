@@ -1,0 +1,9 @@
+node_modules/
+*.tgz
+.next/
+coverage/
+yarn-error.log*
+.env
+.cache/
+npm-debug.log*
+.env.local
